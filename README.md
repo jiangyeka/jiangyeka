@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%B0%86%E4%B9%9Fka-brightgreen)](https://juejin.cn/user/3712386954177709)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-jiangyeka-brightgreen)](http://1.15.41.151/)
 
-𝑰 ❤️ **前端菜鸡。**
+❤️ **前端菜鸡。**
 
 
 
