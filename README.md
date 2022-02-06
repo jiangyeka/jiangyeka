@@ -4,8 +4,6 @@
 - 👋 My personal [blog site](https://jiangyeka.github.io/)
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Front-end
-- 📫reach me by email
-
 
 
 ## 技术栈
