@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Front-end
 
 
-## 技术栈
 
 
 <details open>
